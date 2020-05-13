@@ -5,7 +5,7 @@ public class Test1 {
     public static void main(String[] args) {
 
         //github远程仓库编写的代码
-
+        System.out.println("666");
     }
 
 
