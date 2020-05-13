@@ -6,6 +6,8 @@ public class Test1 {
 
         //本地idea编写的代码
         System.out.println("666");
+        //github远程仓库编写的代码
+        System.out.println("666");
     }
 
 
